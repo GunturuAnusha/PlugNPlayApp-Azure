@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Anusha\\Downloads\\plugNplay_Android (1)\\plugNplay\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "C:\\Users\\Anusha\\Downloads\\plugNplay_Android (1)\\plugNplay\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anusha\\Downloads\\plugNplay_Android (1)\\plugNplay\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Anusha\\Downloads\\plugNplay_Android (1)\\plugNplay\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anusha\\Downloads\\plugNplay_Android (1)\\plugNplay\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_to_do.xml",
+        "source": "C:\\Users\\Anusha\\Downloads\\plugNplay_Android (1)\\plugNplay\\app\\src\\main\\res\\layout\\activity_to_do.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anusha\\Downloads\\plugNplay_Android (1)\\plugNplay\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Anusha\\Downloads\\plugNplay_Android (1)\\plugNplay\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anusha\\Downloads\\plugNplay_Android (1)\\plugNplay\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_homepage.xml",
+        "source": "C:\\Users\\Anusha\\Downloads\\plugNplay_Android (1)\\plugNplay\\app\\src\\main\\res\\layout\\activity_homepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anusha\\Downloads\\plugNplay_Android (1)\\plugNplay\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_list_to_do.xml",
+        "source": "C:\\Users\\Anusha\\Downloads\\plugNplay_Android (1)\\plugNplay\\app\\src\\main\\res\\layout\\row_list_to_do.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anusha\\Downloads\\plugNplay_Android (1)\\plugNplay\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_account.xml",
+        "source": "C:\\Users\\Anusha\\Downloads\\plugNplay_Android (1)\\plugNplay\\app\\src\\main\\res\\layout\\activity_create_account.xml"
+    }
+]
