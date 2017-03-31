@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="13274663749543"
+    token="1690404991587272312" >
+
+    <task
+        name="javac"
+        duration="878" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="253" />
+    <task
+        name="verifier"
+        duration="27" />
+
+    <artifact
+        location="C:\Users\Anusha\Downloads\plugNplay_Android (1)\plugNplay\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+        type="DEX" />
+
+    <build timestamp="9495056043720" >
+        <artifact
+            location="C:\Users\Anusha\Downloads\plugNplay_Android (1)\plugNplay\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="13274663749543" >
+        <artifact
+            location="C:\Users\Anusha\Downloads\plugNplay_Android (1)\plugNplay\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#F8F1E5"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:weightSum="1">
+
+<!--    ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView1"
+        android:src="@drawable/logoppt" />
+
+
+    ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:src="@drawable/logosmall" />-->
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Plug-N-Play App"
+        android:textColor="#4c3f54"
+        android:textStyle="bold"
+        android:id="@+id/textView7"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.14" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="190dp"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+            android:layout_weight="0.14">
+
+        <EditText
+            android:id="@+id/email"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:hint="@string/hint_username"
+            android:textColorHint="@color/input_register_hint"
+            android:inputType="textEmailAddress"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:textColor="#4c3f54"
+             />
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:inputType="textPassword"
+            android:textColorHint="@color/input_register_hint"
+            android:hint="@string/hint_password"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:textColor="#4c3f54"
+             />
+
+
+        <!-- Login Button -->
+
+        <Button
+            android:id="@+id/signin"
+            android:text="@string/btn_login"
+            android:textColor="#F8F1E5"
+            android:background="#4c3f54"
+            android:textStyle="bold"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dip" />
+
+
+            <!-- TextView field for Register here link -->
+            <TextView
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New User? Register Here!"
+                android:textSize="20dp"
+                android:textColor="#4c3f54"
+                android:id="@+id/registerHere"
+                android:layout_below="@+id/signin"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp" />
+
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
